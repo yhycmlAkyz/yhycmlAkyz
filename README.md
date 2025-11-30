@@ -61,6 +61,3 @@ Hello! My name is **Yahya Cemal Akyüz**. I am a passionate student developer wi
 
 <br/>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yhycmlAkyz&theme=radical&no-frame=true&no-bg=true&margin-w=4" />
-</div>
