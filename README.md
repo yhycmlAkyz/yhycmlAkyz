@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yahya Cemal Akyüz</h1>
-<h3 align="center">Software Development Student & Game Dev Enthusiast 🚀</h3>
+<h3 align="center">Software Development Student & AI & Game Dev Enthusiast 🚀</h3>
 
 <div align="center">
 
