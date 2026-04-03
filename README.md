@@ -19,11 +19,13 @@
 
 ### 👨‍💻 About Me
 
-Hello! My name is **Yahya Cemal Akyüz**. I am a passionate student developer with a strong focus on **Game Development (Unity/Unreal)** and **Desktop Applications (.NET)**. I am dedicated to writing clean code and constantly exploring new technologies.
+Hello! I'm Yahya Cemal Akyüz, a passionate Software Developer with hands-on experience 
+in full-stack development, AI integration, and IoT systems.
 
-- 🔭 I’m currently working on **Visual Programming** projects.
-- 🌱 I’m currently learning **C#** and **C++**.
-- ⚡ **Fun fact:** I love designing game mechanics and turning them into code.
+🔭 I'm currently working on AI-powered applications and real-world software projects.
+🌱 I'm currently learning Python, Flask, and AI/ML technologies.
+🎮 I also have a strong interest in Game Development with Unity & Unreal Engine.
+⚡ Fun fact: I built an AI English speaking coach that actually corrects your grammar in real-time!
 
 ---
 
