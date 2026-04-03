@@ -22,10 +22,10 @@
 Hello! I'm Yahya Cemal Akyüz, a passionate Software Developer with hands-on experience 
 in full-stack development, AI integration, and IoT systems.
 
-🔭 I'm currently working on AI-powered applications and real-world software projects.
-🌱 I'm currently learning Python, Flask, and AI/ML technologies.
-🎮 I also have a strong interest in Game Development with Unity & Unreal Engine.
-⚡ Fun fact: I built an AI English speaking coach that actually corrects your grammar in real-time!
+-🔭 I'm currently working on AI-powered applications and real-world software projects.
+-🌱 I'm currently learning Python, Flask, and AI/ML technologies.
+-🎮 I also have a strong interest in Game Development with Unity & Unreal Engine.
+-⚡ Fun fact: I built an AI English speaking coach that actually corrects your grammar in real-time!
 
 ---
 
